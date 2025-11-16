@@ -1,24 +1,13 @@
 # 🚦 SMART TRAFFIC CONTROL SIMULATION
 
 ## 📋 Mini Project Overview
-
-**Course:** CSE360 - Computer Systems Engineering  
+  
 **Project Type:** 🔬 Mini Project  
 **Programming Language:** C++/SFML  
 
 ---
 
-## 👨‍💻 Developed by
 
-**Developed by [Azizul Abedin Azmi](https://github.com/azizulabedinazmi)**
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Azizul%20Abedin%20Azmi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azizulabedinazmi)
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5269--6900-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5269-6900)
-
-</div>
 
 ---
 
@@ -85,27 +74,6 @@ int calculate_green_time(bool is_ns) {
 └─────────────────────────────────────────────────┘
 ```
 
----
-
-## 💻 Installation & Setup
-
-### Prerequisites
-- Linux (Ubuntu 18.04+), Windows 10+, macOS 10.14+
-- g++ (C++17), SFML 2.5+
-
-### Install SFML (Ubuntu)
-```bash
-sudo apt update
-sudo apt install -y build-essential g++ cmake libsfml-dev
-```
-
-### Clone & Compile
-```bash
-git clone https://github.com/azizulabedinazmi/smart-traffic-control.git
-cd smart-traffic-control/cpp
-g++ -std=c++17 -o traffic traffic_system.cpp -lsfml-graphics -lsfml-window -lsfml-system
-./traffic
-```
 
 ---
 
@@ -125,21 +93,7 @@ g++ -std=c++17 -o traffic traffic_system.cpp -lsfml-graphics -lsfml-window -lsfm
 
 ---
 
-## 🎮 **QUICK START GUIDE**
 
-### **🚀 Get Started in 3 Steps:**
-
-1. **📥 Clone the repository:**
-   ```bash
-   git clone https://github.com/azizulabedinazmi/smart-traffic-control.git
-   cd smart-traffic-control/cpp
-   ```
-
-2. **🔨 Compile and run:**
-   ```bash
-   g++ -std=c++17 traffic_system.cpp -o traffic -lsfml-graphics -lsfml-window -lsfml-system
-   ./traffic
-   ```
 
 3. **🎮 Start controlling traffic:**
    - Press `N`, `S`, `E`, `W` for pedestrian crossing requests
@@ -224,12 +178,6 @@ g++ -std=c++17 -o traffic traffic_system.cpp -lsfml-graphics -lsfml-window -lsfm
 
 - Fork, branch, commit, and open pull requests
 - Bug reports, feature requests, documentation, UI/UX, and testing welcome!
-
----
-
-## 📧 Contact
-- GitHub: [Azizul Abedin Azmi](https://github.com/azizulabedinazmi)
-- ORCID: [0009-0003-5269-6900](https://orcid.org/0009-0003-5269-6900)
 
 ---
 
